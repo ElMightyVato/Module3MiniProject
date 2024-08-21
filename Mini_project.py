@@ -35,7 +35,7 @@ def main_menu():
         elif choice == 7:
             import_contacts()
         elif choice == 8:
-            print("Goodbye!")
+            print("Thanks for using my app!")
             break
         else:
             print("Invalid option. Please choose a number between 1 and 8.")
